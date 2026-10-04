@@ -1,0 +1,11 @@
+{
+  "name": "CMSIS-STM32F4xx",
+  "version": "1.0.0",
+  "description": "ARM CMSIS core + ST STM32F4xx device headers (disalin dari STM32CubeIDE Drivers/CMSIS). Hanya header (Include), tanpa Source/Templates -- proyek ini punya SystemInit()/startup sendiri.",
+  "build": {
+    "flags": [
+      "-I Include",
+      "-I Device/ST/STM32F4xx/Include"
+    ]
+  }
+}

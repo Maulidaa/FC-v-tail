@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../pio_flightController_fixed/pio_flightController"
+		},
+		{
+			"name": "pio_flightController",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
